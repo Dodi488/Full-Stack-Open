@@ -10,8 +10,6 @@ Repository Structure
 │   └── 0.6:New_note_in_Single_page_app_diagram.md
 ├─ part1/
 │   ├── courseinfo/
-│   │   ├──0.1
-│   │   └──0.2
 │   ├── unicafe/
 │   └── anecdotes/  
 ├─ part2/
